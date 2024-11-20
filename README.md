@@ -31,12 +31,12 @@ A consumer finance company must decide whether to approve loan applications base
 
 1. Clone the repository:
    
-> `git clone <repository-url>` 
+> `git clone https://github.com/Ankita-Jindal-89/LendingClubCaseStudy` 
 2. Open the notebook file 
 > (`Ankita_Jindal.ipynb`)  in Jupyter Notebook or any compatible IDE.
 3. Review the findings in the provided PDF file.
 
 ## Collaborators
 
-* [Ankita Jundal](https://github.com/Ankita-Jindal-89) 
+* [Ankita Jindal](https://github.com/Ankita-Jindal-89) 
 * [Ankur Parashar](https://github.com/ankurparashar)
